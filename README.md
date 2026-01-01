@@ -1,11 +1,30 @@
-# 👋 个人主页
+# 👋 Personal Profile
 
-## 🌟 数据概览 & 贡献可视化
-| CSDN 数据统计 | GitHub 贡献轨迹 |
+## 🌟 Data Overview & Contribution Visualization
+| CSDN Statistics | GitHub Contribution Graph |
 |:---: |:---: |
-| ![CSDN 统计](https://stats.justsong.cn/api/csdn?id=m0_60890610&theme=tokyonight&show_title=1&show_desc=1&layout=compact) | ![GitHub 贡献蛇](https://raw.githubusercontent.com/Pengyu-Li-2002/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg) |
+| ![CSDN Stats](https://stats.justsong.cn/api/csdn?id=m0_60890610&theme=tokyonight&show_title=1&show_desc=1&layout=compact) | ![GitHub Contribution Snake](https://raw.githubusercontent.com/Pengyu-Li-2002/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg) |
 
-## ✨ 个性化标签
-[![技术栈](https://img.shields.io/badge/技术栈-Python%20%7C%20MySQL%20%7C%20Web-blueviolet?style=flat-square)](https://github.com/Pengyu-Li-2002)
-[![状态](https://img.shields.io/badge/状态-学习中%20%7C%20持续更新-green?style=flat-square)](https://github.com/Pengyu-Li-2002)
-[![座右铭](https://img.shields.io/badge/座右铭-知行合一-orange?style=flat-square)](https://github.com/Pengyu-Li-2002)
+## ✨ Personal Tags
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20MySQL-blueviolet?style=flat-square&logo=python&logoColor=white)](https://github.com/Pengyu-Li-2002)
+[![Status](https://img.shields.io/badge/Status-Learning%20%7C%20Continuous%20Improvement-green?style=flat-square)](https://github.com/Pengyu-Li-2002)
+[![Motto](https://img.shields.io/badge/Motto-No%20Regrets-orange?style=flat-square)](https://github.com/Pengyu-Li-2002)
+
+---
+
+### 🚀 About Me
+A passionate developer exploring the realms of software engineering, with a focus on Python development and database management. Continuously learning and contributing to open-source projects.
+
+### 💻 Technical Expertise
+- **Languages**: Python
+- **Databases**: MySQL
+- **Interests**: Software Development, Data Engineering, Algorithm Design
+
+### 📊 Activity
+- Active contributor on GitHub
+- Sharing knowledge and insights on CSDN
+- Building projects that solve real-world problems
+
+---
+
+*"落子无悔" - No Regrets*
