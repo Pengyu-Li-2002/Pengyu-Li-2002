@@ -10,8 +10,6 @@
 [![Status](https://img.shields.io/badge/Status-Learning%20%7C%20Continuous%20Improvement-green?style=flat-square)](https://github.com/Pengyu-Li-2002)
 [![Motto](https://img.shields.io/badge/Motto-No%20Regrets-orange?style=flat-square)](https://github.com/Pengyu-Li-2002)
 
----
-
 ### 🚀 About Me
 I received the B.S. in 2024 from [NCU (Nanchang University)](https://www.ncu.edu.cn/), is pursuing the M.S. at [SCUT (South China University of Technology)](https://www.scut.edu.cn/). 
 
