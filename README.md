@@ -13,8 +13,11 @@
 ---
 
 ### 🚀 About Me
-I received the B.S. in 2024 from [NCU (Nanchang University)](https://www.ncu.edu.cn/), is pursuing the M.S. at [SCUT (South China University of Technology)](https://www.scut.edu.cn/). My research interests include LLMs, machine learning, and time series anomaly detection. 😃😃😃
-I used to work as a product manager at an AI game development company for approximately three months. Currently, I am working as an intern algorithm researcher in the model training team of an artificial intelligence (AI) unicorn enterprise in Shenzhen.
+I received the B.S. in 2024 from [NCU (Nanchang University)](https://www.ncu.edu.cn/), is pursuing the M.S. at [SCUT (South China University of Technology)](https://www.scut.edu.cn/). 
+
+My research interests include LLMs, machine learning, and time series anomaly detection. 😃😃😃
+
+I used to work as a product manager at an AI game development company for approximately three months. Currently, I am working as an intern algorithm researcher in an artificial intelligence (AI) unicorn enterprise in Shenzhen.
 
 ### 💻 Technical Expertise
 - **Languages**: Python
