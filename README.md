@@ -23,4 +23,4 @@ I used to work as a product manager at an AI game development company for approx
 - Building projects that solve real-world problems
 ---
 
-*"落子无悔" - No Regrets*
+*落子无悔 - No Regrets*
