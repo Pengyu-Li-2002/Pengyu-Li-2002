@@ -1,8 +1,8 @@
 # 👋 Personal Profile
 
 ## 🌟 Data Overview & Contribution Visualization
-| CSDN Statistics | GitHub Contribution Graph |
-|:---: |:---: |
+| ⭐️ 技术平台数据看板 - CSDN | ⭐️ 代码贡献可视化 - GitHub |
+| :-----------------------: | :------------------------: |
 | ![CSDN Stats](https://stats.justsong.cn/api/csdn?id=m0_60890610&theme=tokyonight&show_title=1&show_desc=1&layout=compact) | ![GitHub Contribution Snake](https://raw.githubusercontent.com/Pengyu-Li-2002/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg) |
 
 ### 🚀 About Me
