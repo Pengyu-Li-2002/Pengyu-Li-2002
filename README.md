@@ -15,6 +15,7 @@ I used to work as a product manager at an AI game development company for approx
 ### 💻 Technical Expertise
 - **Languages**: Python
 - **Databases**: MySQL
+- **Core Competencies**: AI Algorithm Design, Product Design
 
 ### 📊 Activity
 - Active contributor on GitHub
