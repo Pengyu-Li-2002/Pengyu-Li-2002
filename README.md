@@ -13,18 +13,17 @@
 ---
 
 ### 🚀 About Me
-A passionate developer exploring the realms of software engineering, with a focus on Python development and database management. Continuously learning and contributing to open-source projects.
+I received the B.S. in 2024 from NCU (Nanchang University), is pursuing the M.S. at SCUT (South China University of Technology). My research interests include LLMs, machine learning, and time series anomaly detection. 😃😃😃
+I used to work as a product manager at an AI game development company for approximately three months. Currently, I am working as an intern algorithm researcher in the model training team of an artificial intelligence (AI) unicorn enterprise in Shenzhen.
 
 ### 💻 Technical Expertise
 - **Languages**: Python
 - **Databases**: MySQL
-- **Interests**: Software Development, Data Engineering, Algorithm Design
 
 ### 📊 Activity
 - Active contributor on GitHub
 - Sharing knowledge and insights on CSDN
 - Building projects that solve real-world problems
-
 ---
 
 *"落子无悔" - No Regrets*
