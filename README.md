@@ -1,29 +1,52 @@
 # 👋 Personal Profile
 
 ## 🌟 Data Overview & Contribution Visualization
-<!-- GitHub README 专属 - 数据统计卡片 -->
-<div align="center" style="padding: 20px 0;">
-  <h2 style="color: #24292e; margin-bottom: 16px;">📊 个人数据统计</h2>
-  
-  <!-- 弹性布局卡片容器，适配屏幕宽度 -->
-  <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; width: 95%; max-width: 1000px;">
-    
-    <!-- CSDN 统计卡片 -->
-    <div style="flex: 1; min-width: 360px; padding: 16px; border-radius: 12px; background: #f6f8fa; border: 1px solid #e1e4e8;">
-      <p style="color: #24292e; font-weight: 600; margin: 0 0 8px 0; font-size: 14px;">🌟 CSDN Statistics</p>
-      <img src="https://stats.justsong.cn/api/csdn?id=m0_60890610&theme=tokyonight&show_title=1&show_desc=1&layout=compact" 
-           style="width: 100%; border-radius: 8px;" 
-           alt="CSDN Stats">
+<div align="center" style="padding: 20px 0; width: 100%;">
+  <h2>📊 个人数据统计</h2>
+
+  <!-- 外层弹性布局容器（核心：控制卡片并排+自适应） -->
+  <div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 90%;
+    max-width: 1000px;
+  ">
+    <!-- CSDN 卡片 -->
+    <div style="
+      flex: 1;
+      min-width: 350px;
+      padding: 15px;
+      border-radius: 10px;
+      background: #f6f8fa;
+      border: 1px solid #e1e4e8;
+    ">
+      <p style="font-weight: 600; margin: 0 0 8px 0;">🌟 CSDN Statistics</p>
+      <img 
+        src="https://stats.justsong.cn/api/csdn?id=m0_60890610&theme=tokyonight&show_title=1&show_desc=1&layout=compact" 
+        style="width: 100%; border-radius: 8px;"
+        alt="CSDN Stats"
+      >
     </div>
-    
-    <!-- GitHub 贡献卡片 -->
-    <div style="flex: 1; min-width: 360px; padding: 16px; border-radius: 12px; background: #f6f8fa; border: 1px solid #e1e4e8;">
-      <p style="color: #24292e; font-weight: 600; margin: 0 0 8px 0; font-size: 14px;">🌟 GitHub Contribution Graph</p>
-      <img src="https://raw.githubusercontent.com/Pengyu-Li-2002/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg" 
-           style="width: 100%; border-radius: 8px;" 
-           alt="GitHub Contribution Snake">
+
+    <!-- GitHub 卡片 -->
+    <div style="
+      flex: 1;
+      min-width: 350px;
+      padding: 15px;
+      border-radius: 10px;
+      background: #f6f8fa;
+      border: 1px solid #e1e4e8;
+    ">
+      <p style="font-weight: 600; margin: 0 0 8px 0;">🌟 GitHub Contribution Graph</p>
+      <img 
+        src="https://raw.githubusercontent.com/Pengyu-Li-2002/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg" 
+        style="width: 100%; border-radius: 8px;"
+        alt="GitHub Contribution Snake"
+      >
     </div>
-    
   </div>
 </div>
 
