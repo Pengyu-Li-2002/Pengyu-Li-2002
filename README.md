@@ -60,12 +60,6 @@
 
 <br />
 
-<!-- 底部 GitHub 统计 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pengyu-Li-2002&show_icons=true&theme=radical&hide_border=true&title_color=FEFEFE&icon_color=FF007A&text_color=FFFFFF&bg_color=151515" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pengyu-Li-2002&theme=radical&hide_border=true&fire=FF007A&ring=FF007A" />
-</div>
-
 <br />
 
 <!-- 底部标语 -->
