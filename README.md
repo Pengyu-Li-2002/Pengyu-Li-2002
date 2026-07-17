@@ -5,7 +5,7 @@
 | :-----------------------: | :------------------------: |
 | ![CSDN Stats](https://stats.justsong.cn/api/csdn?id=m0_60890610&theme=tokyonight&show_title=1&show_desc=1&layout=compact) | ![GitHub Contribution Snake](https://raw.githubusercontent.com/Pengyu-Li-2002/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg) |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengyu-Li-2002)
+![Anurag's GitHub stats](https://github-readme-stats.zhsama.com/api?username=Pengyu-Li-2002&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🚀 About Me
 I received the B.S. in 2024 from [NCU (Nanchang University)](https://www.ncu.edu.cn/), is pursuing the M.S. at [SCUT (South China University of Technology)](https://www.scut.edu.cn/). 
