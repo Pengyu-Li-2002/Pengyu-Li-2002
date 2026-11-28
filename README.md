@@ -26,8 +26,8 @@ Currently, I am working as an intern algorithm researcher in an AI enterprise in
 - Served as emergency reviewer for EMNLP 2026
 - Served as reviewer for ARR 2026 August cycle
 - Assisted supervisor in reviewing submissions for top-tier academic venues:
-  - **Conferences**: ICLR, CVPR, AAAI, NeurIPS, BMVC
-  - **Journals**: TPAMI, TKDE, TDSC, TIST, TNNLS, TII, IoT-J, KBS
+- **Conferences**: ICLR, CVPR, AAAI, NeurIPS, BMVC
+- **Journals**: TPAMI, TKDE, TDSC, TIST, TNNLS, TII, IoT-J, KBS
 ---
 
 *落子无悔 - No Regrets*
